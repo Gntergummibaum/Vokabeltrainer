@@ -1,0 +1,54 @@
+{
+    "die Nacht, nachts|la nuit": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "gestern|hier": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "nach|après": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "für|pour": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "tanzen|danser": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "spielen|jouer": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "die Musik|la musique": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "der Film|le film": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "der Fernseher|la télévision": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "der Computer|l'ordinateur": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "das Buch|le livre": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "das Heft|le cahier": {
+        "richtig": 0,
+        "falsch": 0
+    },
+    "der Stift|le stylo": {
+        "richtig": 0,
+        "falsch": 0
+    }
+}
